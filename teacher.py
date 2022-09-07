@@ -1,0 +1,5 @@
+f=open("mom.txt",mode="w")
+f.write("hello\n")
+f.write("good morning\n")
+print("success")
+f.close()
